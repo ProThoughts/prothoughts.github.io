@@ -24,15 +24,13 @@ description: Q2A Developer | Plugins | Testing
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Plugins: "https://github.com/prothoughts"
+  Q2A Profile: "http://question2answer.org/qa/user/ProThoughts"
+  Donate: "https://prothoughts.com/donate"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://avatars1.githubusercontent.com/u/6511264?s=460&v=4"
+avatar: "https://d11a6trkgmumsb.cloudfront.net/user_avatar/meta.discourse.org/prothoughts/240/112162_1.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
