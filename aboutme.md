@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Q2A Developer/Tester | Plugins
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Question2Answer (Q2A) launched in 2010 and I started working since its first beta release with Gideon(Creator of Question2Answer). I mainly focus on testing of Q2A, support Q2A members, write plugins and add some code to Q2A. I also suggest new features for Q2A.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### My Contribution 
 
-### my history
+- Support Q2A site owners
+- Plugin development
+- Suggest new features
+- Add some code to Q2A.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
